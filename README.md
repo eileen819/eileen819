@@ -34,5 +34,5 @@ that are both functional and easy to use for everyone.
 
 📫 **Contact**  
 📧 [eileen.hj.88@gmail.com](mailto:eileen.hj.88@gmail.com)  
-🌐 [Portfolio (Notion)](https://well-particle-733.notion.site/27bbe832d05380d9b2fbd5918616f841)  
+🌐 [Portfolio (Notion)](https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841)  
 🐙 [GitHub](https://github.com/eileen819)
