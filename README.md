@@ -17,7 +17,7 @@ I focus on making technology intuitive and meaningful for everyone.
 ### 💼 Featured Projects  
 
 - 🐦 **[Twircle](https://twircle.vercel.app)** — Twitter-style SNS with real-time comments, likes, and notifications.  
-- 🎬 **[NEWFLIX](newflix-eileen.vercel.app)** — Movie Explorer using TMDB API and serverless backend on Vercel.  
+- 🎬 **[NEWFLIX](https://newflix-eileen.vercel.app)** — Movie Explorer using TMDB API and serverless backend on Vercel.  
 - ⏰ **[Moment App](https://moment-of-today.netlify.app)** — Vanilla JS To-Do app with D-Day tracker and random quotes.  
 
 ---
