@@ -51,12 +51,13 @@ that are both functional and easy to use for everyone.
 📫 **Contact**  
 📧 [eileen.hj.88@gmail.com](mailto:eileen.hj.88@gmail.com)  
 🌐 [Portfolio (Notion)](https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841)  
+🐙 [GitHub](https://github.com/eileen819)  
 
 <div>
   <a href="https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white">
-  </a>&nbsp
-  <a href="mailto:eileen.hj.88@gmail.com">
+  </a>
+  <a href="https://github.com/eileen819">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  </a>&nbsp
+  </a>
 </div>
