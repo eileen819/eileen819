@@ -8,9 +8,29 @@ I focus on making technology intuitive and meaningful for everyone.
 ---
 
 ### 🧠 Tech Stack  
-**Main:** React ⚛ · TypeScript ⌨️ · Firebase 🔥 · Zustand 🐻 · React Query ⚡  
-**Experienced:** Next.js ▲ · Tailwind 💨 · styled-components 🎨  
-**Familiar:** Node.js 🌿 · Supabase 🍃  
+**Main:** 
+<div>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=DD2C00">
+  <img src="https://img.shields.io/badge/Tanstack_Query-44bd32?style=for-the-badge&logo=react-query&logoColor=FF4154">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</div>
+<br/>
+
+**Experienced:** 
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindCSS&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+</div>
+
+**Familiar:**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</div>
 
 ---
 
