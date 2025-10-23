@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=100&section=header&text=Hyeonju's%20GitHub&fontSize=50&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonju's%20GitHub&fontSize=50&fontAlignY=40)
 # 👋 Hi, I'm Hyeonju Hwang  
 ### 🚀 Frontend Developer crafting user-friendly web experiences  
 I build responsive, accessible, and human-centered web applications  
