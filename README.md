@@ -53,7 +53,7 @@ that are both functional and easy to use for everyone.
 🌐 [Portfolio (Notion)](https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841)  
 
 <div>
-  <a href="https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841" target="_blank">
+  <a href="https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white">
   </a>&nbsp
   <a href="mailto:eileen.hj.88@gmail.com">
