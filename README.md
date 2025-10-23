@@ -26,6 +26,8 @@ I focus on making technology intuitive and meaningful for everyone.
   <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eileen819&layout=compact)
+
 ---
 
 ### 💼 Featured Projects  
