@@ -38,8 +38,8 @@ crafting interfaces that feel intuitive and meaningful.
 
 📫 **Contact**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-eileen819-D7E9FF?style=flat-square&logo=github&logoColor=181717)](https://github.com/eileen819)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-E7E0FF?style=flat-square&logo=notion&logoColor=000000)](https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841)
+[![GitHub](https://img.shields.io/badge/GitHub-eileen819-D7E9FF?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/eileen819)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-E7E0FF?style=flat-square&logo=notion&logoColor=ffffff)](https://eileen88.notion.site/27bbe832d05380d9b2fbd5918616f841)
 [![Email](https://img.shields.io/badge/Email-eileen.hj.88%40gmail.com-FFD6E8?style=flat-square&logo=gmail&logoColor=E4405F)](mailto:eileen.hj.88@gmail.com)
 
 
