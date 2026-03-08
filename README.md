@@ -47,7 +47,7 @@ crafting interfaces that feel intuitive and meaningful.
 
 ### 📫 Contact  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E7E0FF?style=flat-square)](https://hyeonju-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-eileen.hj.88%40gmail.com-FFD6E8?style=flat-square&logo=gmail&logoColor=E4405F)](mailto:eileen.hj.88@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E7E0FF?style=flat-square)](https://hyeonju-dev.vercel.app)
 
 
