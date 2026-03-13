@@ -16,6 +16,7 @@ crafting interfaces that feel intuitive and meaningful.
 </div>
 <div>
   <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat&logo=react-query&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=DD2C00" />
 </div>
@@ -23,7 +24,7 @@ crafting interfaces that feel intuitive and meaningful.
 <div>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Framer Motion-fff312?style=flat&logo=framer&logoColor=0f1115" />
 </div>
 
 <div>
