@@ -37,6 +37,8 @@ crafting interfaces that feel intuitive and meaningful.
 
 ### 💼 Featured Projects  
 
+- 🛠️ **[React Webpack Starter](https://github.com/eileen819/react-webpack-starter)**
+  - Custom React Webpack starter focused on bundling, code splitting, and build optimization.
 - 🗺️ **[DateMode](https://datemode.vercel.app)**
   - AI-powered date course recommendation service that generates personalized itineraries and validates real places using Kakao Map APIs.
 - 🐦 **[Twircle](https://twircle.vercel.app)**
