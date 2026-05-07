@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Crafting%20user-friendly%20web%20experiences&fontSize=35&fontAlignY=35)
-## 👋 Hi, I'm Hyeonju Hwang  
-### 🚀 Frontend Developer crafting user-friendly web experiences  
-I build responsive and accessible web experiences  
-with **React**, **TypeScript**, and **Firebase**,  
-crafting interfaces that feel intuitive and meaningful. 
+# 👋 Hi, I'm Hyeonju Hwang  
+I build responsive web interfaces with HTML, CSS, and JavaScript,  
+and extend them into interactive web services using React and Next.js.
+
+I focus on user flow, readable UI structure, and practical interface patterns  
+such as cards, modals, sliders, forms, maps, and state-based feedback UI.
 
 ---
 
-### ⚡️ Tech Stack  
+## ⚡️ Tech Stack  
 <div>
   <img src="https://img.shields.io/badge/React-282C34?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff" />
@@ -35,7 +36,7 @@ crafting interfaces that feel intuitive and meaningful.
 
 ---
 
-### 💼 Featured Projects  
+## 💼 Featured Projects  
 
 - 🛠️ **[React Webpack Starter](https://github.com/eileen819/react-webpack-starter)**
   - Custom React Webpack starter focused on bundling, code splitting, and build optimization.
@@ -48,7 +49,7 @@ crafting interfaces that feel intuitive and meaningful.
   
 ---
 
-### 📫 Contact  
+## 📫 Contact  
 
 [![Email](https://img.shields.io/badge/Email-eileen.hj.88%40gmail.com-FFD6E8?style=flat-square&logo=gmail&logoColor=E4405F)](mailto:eileen.hj.88@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E7E0FF?style=flat-square)](https://hyeonju-dev.vercel.app)
